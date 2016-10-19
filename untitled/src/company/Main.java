@@ -24,10 +24,5 @@ public class Main  {
             Thread thread = new Thread(new LoadImage(url));
             thread.start();
         }
-
-
-
-
     }
-
 }
